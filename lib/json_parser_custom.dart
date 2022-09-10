@@ -325,7 +325,6 @@ class Parser {
         List value = parseArray();
         return Value(type: ValueType.ArrayValue, value: value);
       default:
-        eat(peek().type);
         throw Exception("Invalid Syntax!");
     }
   }
