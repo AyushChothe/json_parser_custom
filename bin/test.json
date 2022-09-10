@@ -1,0 +1,14 @@
+{
+  "str": "Hello, Ash",
+  "arr": [1, 2, 3, 4, 5],
+  "bool": true,
+  "null": null,
+  "num": 12345,
+  "obj": {
+    "str": "Strings are Awesome",
+    "arr": [1, 2, 3],
+    "bool": false,
+    "null": null,
+    "num": 123
+  }
+}
